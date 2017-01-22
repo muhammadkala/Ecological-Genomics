@@ -13,7 +13,8 @@ Syntax for creating list:
 *item 2   
 *item 3   
 ```
-##Example of embedding a URL:   
+##Example of embedding a URL:  
+
 Syntax:   
 ```
 [hyperlinked words](https://....)
@@ -21,3 +22,10 @@ Syntax:
 
 Implementation:   
 [google](https://www.google.com/)
+
+##Example of embedding image:
+
+Syntax:
+```
+![](URL for picture)
+```
