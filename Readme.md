@@ -2,7 +2,7 @@
 
 # Ecological Genomics
 
-Create a list:   
+##Create a list:   
 *first   
 *second   
 *third   
@@ -13,7 +13,7 @@ Syntax for creating list:
 *item 2   
 *item 3   
 ```
-Example of embedding a URL:   
+##Example of embedding a URL:   
 Syntax:   
 ```
 [hyperlinked words](https://....)
